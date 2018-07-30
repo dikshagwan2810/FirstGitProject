@@ -3,6 +3,7 @@
 <#
     .SYNOPSIS
     This script adds new disk to existing Virtual Machine.
+    git ckeck
     
     .DESCRIPTION
     - Performs addition of standard and premium disk to VM.
